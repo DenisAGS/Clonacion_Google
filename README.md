@@ -1,28 +1,28 @@
-# Clonacion de la interfaz de Google con HTML5 y CSS3.
+# 🌐 Clonación de la Interfaz de Google con HTML5 y CSS3
 
-## **Indice**
+## 📝 Descripción
+Este proyecto es una clonación de la interfaz de Google, centrada en el buscador principal, utilizando HTML5 y CSS3. El propósito es recrear la apariencia y experiencia visual de la página de inicio de Google, destacando el uso de tecnologías web modernas.
 
-* [1. Intro](#)
-* [2. Que construi](#)
-* [3. Objetivo del proyecto](#)
-* [4. Link a Demo](#)
+## 🔧 Qué construí
+Página principal del buscador: Una réplica del buscador de Google con el famoso cuadro de búsqueda central.
+Botones funcionales como "Buscar con Google" y "Voy a tener suerte".
+Diseño responsivo que se adapta tanto a dispositivos móviles como de escritorio.
+Íconos y fuentes originales para un aspecto similar al real.
 
-****
+## 🎯 Objetivo del proyecto
+El objetivo de este proyecto es practicar habilidades en HTML5 y CSS3, enfocándome en:
+* La maquetación y diseño utilizando CSS Flexbox.
+* Buenas prácticas de desarrollo web y estructura de código.
+* Reproducción fiel de interfaces populares para mejorar habilidades en diseño UI.
 
-## 1. Intro
+## 🌍 Link a Demo
+Puedes visualizar el proyecto completo aquí:
+[Clonacion de Google](https://denisags-clonacion-google.netlify.app/)
+ 
+## 💻 Tecnologías utilizadas
+* __HTML5:__ Para la estructura del sitio.
+* __CSS3:__ Para los estilos y diseño visual.
+* __Google Fonts:__ Utilización de la fuente Roboto.
+* __GitHub Pages:__ Para el despliegue del proyecto.
 
-HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los dias en el navegador 💻. Incluso, este sitio web en donde estas viendo este contenido esta construido con HTML y CSS 🤯. En este proyecto, con los conocimientos de HTML y CSS realice la clonacion de la interrfaz de Google ✨.
 
-## 2. Que construi
-
-En este proyecto me enfoque en construir la clonacion de la interfaz de  Google. Contiene las siguientes secciones:
-
-* **Header**: Seccion que involucra la foto de mi perfil, iconos y el menu con hipervinculos.
-* **Main**: Seccion del contenedor para los elementos  centrales de la pagina: logo, barra de busqueda, iconos y botones.
-* **Footer**: Seccion que incluye hipervinculos  al final de la pagina.
-
-## 3. Objectivo el proyecto
-Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
-
-## 4. Link a Demo
-Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](https://denisags-clonacion-google.netlify.app/)
